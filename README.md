@@ -1,3 +1,26 @@
+## hash_library_vendor (humble) - 0.1.1-4
+
+The packages in the `hash_library_vendor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble hash_library_vendor --override-release-repository-push-url git@github.com:revyos-ros/hash_library_vendor-release.git` on `Fri, 05 Jul 2024 05:55:23 -0000`
+
+The `hash_library_vendor` package was released.
+
+Version of package(s) in repository `hash_library_vendor`:
+
+- upstream repository: https://github.com/tier4/hash_library_vendor.git
+- release repository: https://github.com/revyos-ros/hash_library_vendor-release.git
+- rosdistro version: `0.1.1-3`
+- old version: `0.1.1-3`
+- new version: `0.1.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## hash_library_vendor (rolling) - 0.1.1-6
 
 The packages in the `hash_library_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling hash_library_vendor` on `Wed, 20 Mar 2024 17:19:07 -0000`
