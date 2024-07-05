@@ -1,4 +1,4 @@
-From 95522634e85fa585183f3f16068b60f7758df5e5 Mon Sep 17 00:00:00 2001
+From 0df61b919d27ff3603c2fd6cb35ecba2805f491d Mon Sep 17 00:00:00 2001
 From: Zheng Junjie <zhengjunjie@iscas.ac.cn>
 Date: Fri, 5 Jul 2024 13:44:34 +0800
 Subject: [PATCH] set FETCHCONTENT_FULLY_DISCONNECTED to OFF
@@ -8,7 +8,7 @@ Subject: [PATCH] set FETCHCONTENT_FULLY_DISCONNECTED to OFF
  1 file changed, 1 insertion(+)
 
 diff --git a/debian/rules.em b/debian/rules.em
-index 2ab7b14..78b608f 100755
+index a856369..9e15949 100755
 --- a/debian/rules.em
 +++ b/debian/rules.em
 @@ -35,6 +35,7 @@ override_dh_auto_configure:
